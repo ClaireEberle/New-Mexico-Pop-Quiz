@@ -1,0 +1,66 @@
+* {
+    margin:0px;
+    padding: 0px;
+}
+.body {
+    background-image: url(./images/pexels-airam-datoon-8596103.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header {
+    text-align: center;
+    border: rgb(227, 184, 27) solid 10px;
+    padding: 2%;
+    /* background-color: rgb(233, 192, 43); */
+}
+/* .below-head {
+    display: inline;
+} */
+.h2-a{
+    display: block;
+    float: left;
+}
+.h2-b{
+    display: block;
+    /* float: right; */
+    margin-left:60%;
+}
+.button {
+    display: block;
+    /* align-items: center; */
+    padding: 2%;
+    background: rgb(201, 136, 15);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15%;
+}
+
+.hide {
+    display: none;
+}
+.question-form {
+
+margin-left: auto;
+margin-right: auto;
+margin-top: 10%;
+width:45%;
+border: rgb(233, 101, 19) solid 6px;
+background: rgb(150, 216, 236);
+border-radius: 3%;
+padding-left: 3%;
+}
+.answer {
+    list-style-type: none;
+    padding-top: 3px;
+}
+.answer:hover {
+background-color: rgb(255, 230, 0);
+}
+
+.answer1 {
+    list-style-type: none;
+    padding-top: 3px;
+}
+.answer1:hover {
+background-color: rgb(255, 230, 0);
+}

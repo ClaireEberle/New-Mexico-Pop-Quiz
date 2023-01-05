@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css" />
+    <title>Document</title>
+</head>
+<body class="body">
+    <h1 class="header">New Mexico Pop Quiz</h1>
+    <div class="below-head">
+    <h2 class="h2-a">Timer: <span id="timer">30</span> seconds!</h2>
+    <h2 class="h2-b">Last score: <span id='hscores'></span><span id='hscoretime'></span></h2>
+    </div>
+    <section class="box">
+<button class="button">Start Quiz</button>
+    </section>
+    <section class='hide question1 question-form'> 
+        <h2>What year did New Mexico become a state?</h2>
+        <ul>
+            <li class="answer">a. 1872</li>
+            <li class="answer">b. 1912</li>
+            <li class="answer">c. 1949</li>
+        </ul>
+    </section>
+    <section class='hide question2 question-form'>
+        <h2>Which town in New Mexico is home to the oldest church in the United States?</h2>
+        <ul>
+            <li class="answer1">a. Santa Fe</li>
+            <li class="answer1">b. Alamagordo</li>
+            <li class="answer1">c. Truth or Consequences</li>
+        </ul>
+    </section>
+    <section class="hide endpage question-form">
+        <h2>How did you do?</h2>
+        <h3>Your Score: <span id="score"> </span></h3>
+        <label for="initials">Enter your initials: </label>
+        <input type="text" id="initials">
+        <input type="submit" value="Save high score!" id="submit">
+    </section>
+    <script type="text/javascript" src="assets/script.js"></script>
+</body>
+</html>
