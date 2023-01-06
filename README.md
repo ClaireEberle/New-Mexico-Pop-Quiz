@@ -1,10 +1,13 @@
 # New-Mexico-Pop-Quiz
 ## Description
 
+<img width="1182" alt="Screen Shot 2023-01-05 at 11 45 55 PM" src="https://user-images.githubusercontent.com/116858582/210955041-a179d04f-75ca-44f7-a431-82773d1924fd.png">
+
+
 This is a webpage designed to be a timed quiz on New Mexio state facts, including timed multiple question answers and a page displaying the last score from the last player. 
 
-GitHub repository: https://github.com/ClaireEberle/Password-Generator
-Site Link: https://claireeberle.github.io/Password-Generator/
+GitHub repository: 
+Site Link: 
 
 ## Installation
 
