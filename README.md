@@ -6,7 +6,7 @@
 
 This is a webpage designed to be a timed quiz on New Mexio state facts, including timed multiple question answers and a page displaying the last score from the last player. 
 
-GitHub repository: 
+GitHub repository: https://github.com/ClaireEberle/New-Mexico-Pop-Quiz
 Site Link: 
 
 ## Installation
